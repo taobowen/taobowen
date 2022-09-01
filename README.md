@@ -4,6 +4,6 @@
 
 - 💼 I’m currently working on Alibaba
 - 🤔 I work in front-end development
-- 📫 If you want, contact me via this [email](taobowen19990315@gmail.com)
+- 📫 If you want, contact me via this email：taobowen19990315@gmail.com
 - 🔗 Visit my [Blog](http://taobowen.cn/) if you want to know more about me!
 - 😄 Hobby: 🏂 🏊 🏖️
