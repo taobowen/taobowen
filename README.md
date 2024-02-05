@@ -5,5 +5,5 @@
 - 💼 I used to work in Alibaba.Currently I'm preparing for the IELTS to apply for a graduated school.If everything goes well,I will immigrant to Canada.
 - 🤔 I am a front-end development engineer and I specialize in full-stack development.
 - 📫 If you are interested in me, contact me via this email: taobowen19990315@gmail.com
-- 🔗 Visit my [Blog](http://taobowen.github.io/) if you want to know more about me! I generally share my experience and some perspective in my articles.
+- 🔗 Visit my [Blog](https://taobowen.cn/) if you want to know more about me! I generally share my experience and some perspective in my articles.
 - 😄 Hobby: 🏂 🏊 🏖️ 🎷 
