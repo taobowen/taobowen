@@ -12,6 +12,12 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/taobowen?theme=dark&font=Murecho&ext=heatmap)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 - 💼 I used to work in Alibaba.Currently I'm studying in lakehead university in Canada.
 - 🤔 I am a full-stack development engineer.
 - 📫 If you are interested in me, contact me via this email: taobowen19990315@gmail.com
