@@ -8,8 +8,6 @@
   
 </div>
 
-
-
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
@@ -18,11 +16,14 @@
   </a>
 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=taobowen&show_icons=true&icon_color=CE1D2D&text_color=fff&bg_color=000&hide_title=true" />
+<div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/taobowen?theme=dark&font=Murecho&ext=heatmap)
-
-![GitHub Snake](https://raw.githubusercontent.com/taobowen/taobowen/d2947a0d936282fe76e8d267832606168bc273e5/github-snake-dark.svg) 
+  ![GitHub Snake](https://raw.githubusercontent.com/taobowen/taobowen/output/github-snake-dark.svg) 
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/taobowen?theme=dark&font=Murecho&ext=heatmap)
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=taobowen&show_icons=true&icon_color=CE1D2D&text_color=fff&bg_color=000&hide_title=true" />
+  
+</div>
 
 - 💼 I used to work in Alibaba.Currently I'm studying in lakehead university in Canada.
 - 🤔 I am a full-stack development engineer.
