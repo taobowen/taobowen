@@ -1,10 +1,20 @@
-<h1 align="center">Hi, I'm Bowen! 👋 </h1>
+<h1 align="center">
+  Hi, I'm Bowen! 👋 
+</h1>
+
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=taobowen&color=007bff&label=Profile+Views&style=for-the-badge)
+  
+</div>
+
+
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,ts,nodejs,mysql,nextjs,nginx,npm,redis,py,tensorflow,vite,pytorch" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,ts,nodejs,webpack,mysql,nextjs,nginx,redis,py,tensorflow,pytorch" alt="Skills and tools"/>
   </a>
 </p>
 
@@ -12,11 +22,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/taobowen?theme=dark&font=Murecho&ext=heatmap)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![GitHub Snake](https://raw.githubusercontent.com/taobowen/taobowen/d2947a0d936282fe76e8d267832606168bc273e5/github-snake-dark.svg) 
 
 - 💼 I used to work in Alibaba.Currently I'm studying in lakehead university in Canada.
 - 🤔 I am a full-stack development engineer.
