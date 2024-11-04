@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  
+
   ![](https://komarev.com/ghpvc/?username=taobowen&color=007bff&label=Profile+Views&style=for-the-badge)
   
 </div>
@@ -19,11 +19,13 @@
 <div align="center">
 
   ![GitHub Snake](https://raw.githubusercontent.com/taobowen/taobowen/output/github-snake-dark.svg) 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/taobowen?theme=dark&font=Murecho&ext=heatmap)
   
   <img src="https://github-readme-stats.vercel.app/api?username=taobowen&show_icons=true&icon_color=CE1D2D&text_color=fff&bg_color=000&hide_title=true" />
   
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/taobowen?theme=dark&font=Murecho&ext=heatmap)
+  
 </div>
+
 
 - 💼 I used to work in Alibaba.Currently I'm studying in lakehead university in Canada.
 - 🤔 I am a full-stack development engineer.
