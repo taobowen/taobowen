@@ -37,5 +37,5 @@ Currently pursuing graduate studies at Lakehead University. Dedicated to learnin
 - 💼 I used to work in Alibaba. Currently I'm studying in lakehead university in Canada. Click [Here](https://github.com/user-attachments/files/17941713/BowenTao_Resume.pdf) to get my resume.
 - 🤔 I am a full-stack development engineer.
 - 📫 If you are interested in me, contact me via this email: taobowen19990315@gmail.com
-- 🔗 Visit my [Blog](https://taobowen.cn/) if you want to know more about me! I generally share my experience and some perspective in my articles.
+- 🔗 Visit my [Blog](https://taobowen.github.io) if you want to know more about me! I generally share my experience and some perspective in my articles.
 - 😄 Hobby: 🏂 🏊 🏖️ 🎷 ⛺️
