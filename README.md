@@ -23,6 +23,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=taobowen&show_icons=true&icon_color=CE1D2D&text_color=fff&bg_color=000&hide_title=true" />
   
   ![LeetCode Stats](https://leetcard.jacoblin.cool/taobowen?theme=dark&font=Murecho&ext=heatmap)
+
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/yi-ming-de-feng?site=cn&theme=dark&font=Murecho&ext=heatmap)
   
 </div>
 
