@@ -20,7 +20,7 @@
 
   ![GitHub Snake](https://raw.githubusercontent.com/taobowen/taobowen/output/github-snake-dark.svg) 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taobowen&layout=pie)](https://github.com/taobowen/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taobowen&layout=pie&exclude_repo=taobowen.github.io)](https://github.com/taobowen/github-readme-stats)
   
   <img src="https://github-readme-stats.vercel.app/api?username=taobowen&show_icons=true&icon_color=CE1D2D&text_color=fff&bg_color=000&hide_title=true" />
   
