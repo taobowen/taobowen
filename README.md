@@ -38,7 +38,8 @@ Experienced in developing complex distributed backend services, developed an aut
 
 Currently pursuing graduate studies at Lakehead University. Dedicated to learning AI, with a focus on practical application and a passion for creating valuable solutions.
 
-- 💼 I used to work in Alibaba. Currently I'm studying in lakehead university in Canada. Click [Here](https://github.com/user-attachments/files/17941713/BowenTao_Resume.pdf) to get my resume.
+- 💼 I used to work in Alibaba. Currently I'm studying in lakehead university in Canada. Click [Here](https://github.com/user-attachments/files/22261465/Bowen.Tao_SDE.pdf) to get my resume.
+
 - 🤔 I am a full-stack development engineer.
 - 📫 If you are interested in me, contact me via this email: taobowen19990315@gmail.com
 - 😄 Hobby: 🏂 🏊 🏖️ 🎷 ⛺️
