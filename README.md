@@ -25,8 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=taobowen&show_icons=true&icon_color=CE1D2D&text_color=fff&bg_color=000&hide_title=true" />
   
   ![LeetCode Stats](https://leetcard.jacoblin.cool/taobowen?theme=dark&font=Murecho&ext=heatmap)
-
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/yi-ming-de-feng?site=cn&theme=dark&font=Murecho&ext=heatmap)
   
 </div>
 
@@ -38,7 +36,7 @@ Experienced in developing complex distributed backend services, developed an aut
 
 Currently pursuing graduate studies at Lakehead University. Dedicated to learning AI, with a focus on practical application and a passion for creating valuable solutions.
 
-- 💼 I used to work in Alibaba. Currently I'm studying in lakehead university in Canada. Click [Here](https://github.com/user-attachments/files/23686995/Resume_SDE.pdf) to get my resume.
+- 💼 I used to work in Alibaba. Currently I'm studying in lakehead university in Canada. Click [Here](https://github.com/user-attachments/files/25219701/Resume_Fullstack_Bowen.pdf) to get my resume.
 
 - 🤔 I am a full-stack development engineer.
 - 📫 If you are interested in me, contact me via this email: taobowen19990315@gmail.com
