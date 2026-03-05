@@ -1,43 +1,55 @@
 <h1 align="center">
-  Hi, I'm Bowen! 👋 
+Hi, I'm Bowen 👋
 </h1>
 
-<div align="center">
-
-  ![](https://komarev.com/ghpvc/?username=taobowen&color=007bff&label=Profile+Views&style=for-the-badge)
-  
-</div>
-
-<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
-
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,ts,nodejs,webpack,mysql,nextjs,nginx,redis,py,tensorflow,pytorch" alt="Skills and tools"/>
-  </a>
+Full-Stack Engineer | AI Builder | Ex-Alibaba
 </p>
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=taobowen&color=007bff&label=Profile+Views&style=for-the-badge"/>
+</p>
 
-  ![GitHub Snake](https://raw.githubusercontent.com/taobowen/taobowen/output/github-snake-dark.svg) 
 
-  ![Top Langs](https://github-readme-stats-taobowens-projects.vercel.app/api/top-langs/?username=taobowen&layout=pie&exclude_repo=taobowen.github.io)  
-  ![Bowen's GitHub stats](https://github-readme-stats-taobowens-projects.vercel.app/api?username=taobowen&show_icons=true&icon_color=CE1D2D&text_color=FFFFFF&bg_color=000000&hide_title=true)
-  
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/taobowen?theme=dark&font=Murecho&ext=heatmap)
-  
-</div>
 
-Currently seeking full-stack/frontend development internship opportunities in the Toronto area!
+## 🚀 About Me
 
-Experienced in frontend/full-stack development for several years, proficient in large-scale frontend project development, participated in the development of the ticketing system for the Beijing Winter Olympics.
+- 💼 Ex-Alibaba Cloud engineer  
+- 🎓 MSc @ Lakehead University (Canada)  
+- 🧠 Focus on **AI applications + Full-Stack systems**
+- 🌎 Currently seeking **Full-Stack position in Toronto**
 
-Experienced in developing complex distributed backend services, developed an automated console review platform for over 100 products at Alibaba Cloud.
+Previously:
 
-Currently pursuing graduate studies at Lakehead University. Dedicated to learning AI, with a focus on practical application and a passion for creating valuable solutions.
+- Built **Beijing Winter Olympics ticketing system**
+- Developed **automated console review platform** for **100+ products at Alibaba Cloud**
 
-- 💼 I used to work in Alibaba. Currently I'm studying in lakehead university in Canada. Click [Here](https://github.com/user-attachments/files/25219701/Resume_Fullstack_Bowen.pdf) to get my resume.
+📄 **Resume**
 
-- 🤔 I am a full-stack development engineer.
-- 📫 If you are interested in me, contact me via this email: taobowen19990315@gmail.com
-- 😄 Hobby: 🏂 🏊 🏖️ 🎷 ⛺️
+👉 [Download Resume](https://github.com/user-attachments/files/25219701/Resume_Fullstack_Bowen.pdf)
 
+📫 **Email**
+
+taobowen19990315@gmail.com
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats-taobowens-projects.vercel.app/api?username=taobowen&show_icons=true&icon_color=CE1D2D&text_color=FFFFFF&bg_color=000000&hide_title=true&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats-taobowens-projects.vercel.app/api/top-langs?username=taobowen&layout=compact&exclude_repo=taobowen.github.io&hide_border=true&bg_color=000000"/>
+
+</p>
+
+## 🧩 LeetCode
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/taobowen?theme=dark&font=Murecho&ext=heatmap"/>
+</p>
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/taobowen/taobowen/output/github-snake-dark.svg"/>
+</p>
