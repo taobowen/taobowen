@@ -36,9 +36,9 @@ taobowen19990315@gmail.com
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats-taobowens-projects.vercel.app/api?username=taobowen&show_icons=true&icon_color=CE1D2D&text_color=FFFFFF&bg_color=000000&hide_title=true&hide_border=true"/>
-
 <img height="165" src="https://github-readme-stats-taobowens-projects.vercel.app/api/top-langs?username=taobowen&layout=compact&exclude_repo=taobowen.github.io&hide_border=true&bg_color=000000"/>
+
+<img height="165" src="https://github-readme-stats-taobowens-projects.vercel.app/api?username=taobowen&show_icons=true&icon_color=CE1D2D&text_color=FFFFFF&bg_color=000000&hide_title=true&hide_border=true"/>
 
 </p>
 
