@@ -3,50 +3,50 @@ Hi, I'm Bowen 👋
 </h1>
 
 <p align="center">
-Full-Stack Engineer | AI Builder | Ex-Alibaba
+Full-Stack & Backend Engineer | AI-Native Product Development | Ex-Alibaba | Toronto, Canada 
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=taobowen&color=007bff&label=Profile+Views&style=for-the-badge"/>
 </p>
 
+## Featured Work
 
+### 🎣 AnglerPilot — AI Fishing Planner & On-Water Guide
 
-## 🚀 About Me
+An independently developed iOS application, officially launched on the Apple App Store.
 
-- 💼 Ex-Alibaba Cloud engineer  
-- 🎓 MSc @ Lakehead University (Canada)  
-- 🧠 Focus on **AI applications + Full-Stack systems**
-- 🌎 Currently seeking **Full-Stack position in Toronto**
+- **Stack:** React Native, Java/Spring Boot, PostgreSQL/PostGIS, AWS
+- Geospatial data processing and lake structure analysis
+- Route optimization and personalized fishing plans
+- Real-time AI Agent with structured decisions, tool calling, validation, and fallback controls
 
-Previously:
+[App Store](https://apps.apple.com/app/anglerpilot-ai-fishing-guide/id6810367672) · [Website](https://anglerpilot.taobowen.com/)
 
-- Built **Beijing Winter Olympics ticketing system**
-- Developed **automated console review platform** for **100+ products at Alibaba Cloud**
+### ⛷️ AfterRun — Ski Coaching Marketplace
 
-📄 **Resume**
+A full-stack mobile platform connecting skiing students with coaches through video-based feedback.
 
-👉 [Download Resume](https://github.com/user-attachments/files/25219701/Resume_Fullstack_Bowen.pdf)
+- **Stack:** React Native, Spring Boot, PostgreSQL, AWS
+- Asynchronous video processing using S3, SQS, ECS/Fargate, and FFmpeg
+- Transactional workflows, concurrency control, and event-driven notifications
+- iOS testing through TestFlight
 
-📫 **Email**
+[Website](https://afterrun.taobowen.com/)
 
-taobowen19990315@gmail.com
+## Technical Focus
 
-## 📊 GitHub Analytics
+**Backend:** Node.js, TypeScript, Java, Spring Boot, PostgreSQL, Redis
 
-<p align="center">
+**Frontend & Mobile:** React, Next.js, React Native
 
-<img height="165" src="https://github-readme-stats-taobowens-projects.vercel.app/api/top-langs?username=taobowen&layout=compact&exclude_repo=taobowen.github.io&hide_border=true&bg_color=000000"/>
+**Cloud & Distributed Systems:** AWS, Docker, Message Queues, Event-driven Architecture
 
-<img height="165" src="https://github-readme-stats-taobowens-projects.vercel.app/api?username=taobowen&show_icons=true&icon_color=CE1D2D&text_color=FFFFFF&bg_color=000000&hide_title=true&hide_border=true"/>
+**Applied AI:** LLM Agents, RAG, Tool Calling, Evaluation, Observability
 
-</p>
+## Connect
 
-## 🧩 LeetCode
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/taobowen?theme=dark&font=Murecho&ext=heatmap"/>
-</p>
+[LinkedIn](https://www.linkedin.com/in/bowen-tao-9944a5243/) · [Portfolio](https://portfolio.taobowen.com/)
 
 ## 🐍 Contribution Graph
 
